@@ -19,4 +19,5 @@ public class ProjectConfigTest {
     public void checkGradleBuildTest() {
         Assertions.assertTrue(2 == 2);
     }
+
 }
